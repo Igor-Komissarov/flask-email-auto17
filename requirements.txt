@@ -1,0 +1,8 @@
+flask
+pytest
+python-dotenv
+requests
+detect-secrets
+selenium
+webdriver-manager
+pynacl
